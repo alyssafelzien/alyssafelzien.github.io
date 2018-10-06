@@ -15,7 +15,7 @@
 ## Projects
 
 <p>Find links below to my projects</p>
-<p>< href=https://www.alyssafelzien.github.io/javaprojects/>Java Projects</p>
+<p><a href=https://www.alyssafelzien.github.io/javaprojects/>Java Projects</p>
 
 
 
