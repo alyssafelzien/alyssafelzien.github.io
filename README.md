@@ -1,6 +1,20 @@
+<head>
+  <title> Alyssa's Github</title>
+  </head>
+
+
 ## Welcome to My Page
 
-Hi, my name is Alyssa Felzien and this is my GitHub Page. 
+<p> 
+  Hi, my name is Alyssa Felzien and this is my GitHub Page. 
+  </p>
+
+
+
+
+
+
+## Projects
 
 
 
