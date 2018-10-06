@@ -15,9 +15,14 @@
 ## Projects
 
 <p>Find links below to my projects</p>
-<pa><a href=https://www.alyssafelzien.github.io/javaprojects/>Java Projects</p>
+<p><a href=https://www.alyssafelzien.github.io/javaprojects/>Java Projects</p>
 
 
+
+## About Me
+
+I am pursuing a Computer Science bacheolors degree at Boise State University and an Applied Mathematics 
+minor.   
 
 
 
