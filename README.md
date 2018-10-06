@@ -12,10 +12,12 @@
 
 
 
+
 ## Projects
 
 <p>Find links below to my projects</p>
 <p><a href=https://alyssafelzien.github.io/javaprojects//>Java Projects</p>
+<a id="Java Projects" href="https://alyssafelzien.github.io/javaprojects//">Java Projects </a>
 
 
 
