@@ -9,10 +9,6 @@
 
 
 
-
-
-
-
 ## Projects
 
 <p>Find links below to my projects</p>
