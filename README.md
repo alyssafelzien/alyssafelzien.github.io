@@ -16,8 +16,8 @@
 ## Projects
 
 <p>Find links below to my projects</p>
-+ <a id="Java Projects" href="https://alyssafelzien.github.io/javaprojects//">Java Projects </a>
-+ <a id="SQLite Projects" href="https://alyssafelzien.github.io/sqliteprojects//"> SQLite Projects </a>
+ <p> <a id="Java Projects" href="https://alyssafelzien.github.io/javaprojects//">Java Projects </a> </p>
+ <a id="SQLite Projects" href="https://alyssafelzien.github.io/sqliteprojects//"> SQLite Projects </a>
 
 
 
